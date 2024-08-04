@@ -1,0 +1,2 @@
+flask==2.1.2
+aenzbi-odoo==1.0.0  # Replace with the actual version of the aenzbi-odoo package
