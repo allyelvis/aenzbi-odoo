@@ -2,4 +2,4 @@ Flask==2.2.5
 requests==2.32.2
 pytest==7.1.2
 flask-restful==0.3.9
-flask-cors==4.0.2
+flask-cors==5.0.0
